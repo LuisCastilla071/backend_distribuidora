@@ -31,7 +31,6 @@ export const obtenerProducto = async (req, res) => {
   }
 };
 
-
 // Registrar un nuevo producto
 export const registrarProducto = async (req, res) => {
   try {
